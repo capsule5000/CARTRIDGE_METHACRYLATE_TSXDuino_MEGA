@@ -4,6 +4,6 @@ This methacrylate cartridge is specially designed for the TSXDuino_MEGA PCB. It 
 
 # IMAGES
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TSXDuino_MEGA/blob/main/Images/front_TSXDuino_MEGA.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TSXDuino_MEGA/blob/main/Images/front1_TSXDuino_MEGA.png)
 
-![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TSXDuino_MEGA/blob/main/Images/rear_TSXDuino_MEGA.png)
+![Alt text](https://github.com/capsule5000/CARTRIDGE_METHACRYLATE_TSXDuino_MEGA/blob/main/Images/rear1_TSXDuino_MEGA.png)
